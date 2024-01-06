@@ -24,11 +24,13 @@ linear | bold | outline | twotone | bulk | broken
 
 If the icon name is missing, you will be prompted to enter a search term to filter the results.
 
-![screenshot](https://github.com/roma-nechaiev/iconsax/assets/98153123/5e1286ca-8c77-492b-b224-152f284f6e32)
+ ![screenshot](https://github.com/roma-nechaiev/iconsax/assets/98153123/e2652a1a-ba79-4a1b-b456-6480165cc3da)
+
 
 Then select the icon type
 
-![screenshot-2](https://github.com/roma-nechaiev/iconsax/assets/98153123/99466427-2114-4e02-99fb-b0fdfbf45d27)
+![screenshot-2](https://github.com/roma-nechaiev/iconsax/assets/98153123/b3fbcfa6-c078-4596-b53b-e81f6ccbe5ac)
+
 
 That's all, the icon will be installed in the components folder.
 
